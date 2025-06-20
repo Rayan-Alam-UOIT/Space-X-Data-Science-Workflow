@@ -114,7 +114,7 @@ The approach highlights how technical and analytical skills combine to extract a
 
 All source notebooks, scripts, and assets are available in the [project repository](https://github.com/Rayan-Alam-UOIT/Space-X-Data-Science-Project.git). Each component is documented and reproducible.
 
-📄 [**SpaceX Project Summary PDF**](https://github.com/Rayan-Alam-UOIT/Space-X-Data-Science-Project/spacex-project-summary.pdf)  
+📄 [**SpaceX Project Summary PDF**](spacex-project-summary.pdf)  
 A concise, well-formatted summary of the entire project pipeline—from data collection to modeling results. Ideal for quick reference or sharing with instructors, peers, or hiring managers.
 
 
